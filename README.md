@@ -4,7 +4,7 @@ Xi Yang, Han Zhang, Zhijian Lin, Yibiao Hu, and Hong Han*
 This repository contains code of our paper "Out-of-Context Misinformation Detection via Variational Domain-Invariant Learning with Test-Time Training", accepted by the AAAI Conference on Artificial Intelligence (AAAI) 2026.
 
 ## Paper
-Arxiv Link: 
+Arxiv Link: [https://arxiv.org/pdf/2511.10213](https://arxiv.org/pdf/2511.10213)
 
 ## Downloading the dataset
 You can find the NewsCLIPpings dataset following the instructions in [this](https://github.com/S-Abdelnabi/OoC-multi-modal-fc?tab=readme-ov-file) repository.
@@ -34,3 +34,14 @@ We sincerely thank the original authors for sharing their code and groundwork.
 
 ## Citation
 If you find this work useful for your research, please consider citing our paper:
+```
+@misc{yang2025outofcontextmisinformationdetectionvariational,
+      title={Out-of-Context Misinformation Detection via Variational Domain-Invariant Learning with Test-Time Training}, 
+      author={Xi Yang and Han Zhang and Zhijian Lin and Yibiao Hu and Hong Han},
+      year={2025},
+      eprint={2511.10213},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2511.10213}, 
+}
+```
