@@ -7,7 +7,7 @@ This repository contains code of our paper "Out-of-Context Misinformation Detect
 Arxiv Link: [https://arxiv.org/pdf/2511.10213](https://arxiv.org/pdf/2511.10213)
 
 ## Downloading the dataset
-You can find the NewsCLIPpings dataset following the instructions in [this](https://github.com/S-Abdelnabi/OoC-multi-modal-fc?tab=readme-ov-file) repository.
+You can find the NewsCLIPpings dataset following the instructions in [this](https://github.com/g-luo/news_clippings) repository.
 
 ## Requirements
 The required packages are listed in ``requirements_py38.txt``. The setup is based on the environment used for [ConDA-TTT](https://github.com/gymbeijing/ooc-detection-2/blob/master/README.md).
